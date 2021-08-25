@@ -1,0 +1,127 @@
+google_analytics: UA-XXXXXXXX-X
+show_modal_on_finish_post: false
+medium_username: medium_username
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
+highlighter: rouge
+twitter_username: twitter_username
+use_logo: false
+show_time_bar: false
+instagram_username: instagram_username
+show_modal_on_exit: false
+name: Moviesda
+permalink: /:title/
+paginate_path: /page/:num/
+sass:
+  style: compressed
+markdown: kramdown
+url: https://tamil.moviesda.xyz
+facebook_username: facebook_username
+sent_message_url: /contact/message-sent/
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+    - category
+    - actor
+    - director
+    - language
+    - genre
+    - quality
+    - year
+  auto: false
+  separator: --page-break--
+  permalink: /:num/
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+categories_folder: category
+actors_folder: actor
+github_username: github_username
+disqus_username: disqus_username
+collections:
+  authors:
+    output: true
+  articles:
+    output: true
+  actor:
+    output: true
+  director:
+    output: true
+  language:
+    output: true
+  quality:
+    output: true
+  genre:
+    output: true
+  year:
+    output: true
+paginate: 10
+linkedin_username: linkedin_username
+version: live
+title: Moviesda 2021 Movies Download, Moviesda 2021 HD Movies Download
+language: en
+description: Watch and Download Tamil, Telugu, Hindi, Malayalam, Kannada,
+  English, Movies and Web series Isaimini 2021
+tags:
+  - tamil
+  - hindi
+  - telugu
+  - malayalam
+  - kannada
+  - webseries
+  - english
+exclude:
+  - package.json
+  - package-lock.json
+  - src
+  - node_modules
+  - initpost.sh
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - README.md
+show_get_theme_btn: false
+show_hero: true
+email: youremail@test.com
+baseurl: ""
+two_columns_layout: true
+menu:
+  - title: Tamil Movies 2021
+    url: /category/tamil-movies-2021
+  - title: Tamil Movies 2019
+    url: /category/tamil-movies-2019
+  - url: /category/tamil-2018-movies
+    title: Tamil Movies 2018
+  - title: Tamil Movies 2017
+    url: /category/tamil-2017-movies
+  - url: /category/tamil-2016-movies
+    title: Tamil Movies 2016
+  - title: Tamil Movies 2015
+    url: /category/tamil-2015-movies
+  - title: Tamil Movies 2012
+    url: /category/tamil-2014-movies
+  - title: Tamil Movies 2013
+    url: /category/tamil-2013-movies 
+  - title: Tamil Movies 2012
+    url: /category/tamil-2012-movies
+menu2:
+  - title: TamilRockers Movies
+    url: https://ijayasurya.github.io/tamilrockers.html
+  - title:  Moviesda HD Movies
+    url: https://ijayasurya.github.io/moviesda-downloads.html
+  - title:  Isaimini 2020 Movies
+    url: https://ijayasurya.github.io/isaimini-2020-movies.html
+  - title:  TamilGun Movies Download
+    url: https://ijayasurya.github.io/tamilgun-hd-movies.html
+  - title:  TamilRockers 2020 Movies 
+    url: https://ijayasurya.github.io/tamilrockers-2020-movies.html
+  - title:  IsaiDub Dubbed Movies
+    url: https://ijayasurya.github.io/isaidub-download.html
